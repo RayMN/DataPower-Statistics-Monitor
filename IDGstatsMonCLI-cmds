@@ -1,0 +1,9 @@
+myUID <-- The User ID ... erase all this -->
+pa55w0rd <-- The User ID's password ... erase all this -->
+show memory
+show cpu
+switch domain ECHO-Service-One <-- These two commands per domain ... erase all this -->
+show transaction-rate
+switch domain ECHO-Service-Two <-- These two commands per domain ... erase all this -->
+show transaction-rate
+EOF
